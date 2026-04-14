@@ -25,12 +25,10 @@ To clean, explore, and extract meaningful insights from the Google Play Store da
 4. seaborn
 ---
 
----
-
 ## Insights
 - **Rating** is left-skewed , most apps cluster at 4.0–4.5, median (4.3) is a better measure than mean (4.19)
 - **93% of apps are free** - Free and Paid behave as separate populations
 - **Reviews and Installs** follow a power law and require log transformation before any analysis
-- **Reviews ↔ Installs** correlation is r = 0.957  nearly identical signals, never use both in the same model
+- **Reviews - Installs** correlation is r = 0.957  nearly identical signals, never use both in the same model
 - **Price predicts nothing**  near-zero correlation with all other features
 - **FAMILY and GAME** make up 31% of all apps and dominate dataset-wide averages
