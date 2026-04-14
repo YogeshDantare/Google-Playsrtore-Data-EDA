@@ -1,4 +1,4 @@
-# Google Play Store — EDA
+# Google Play Store EDA
 
 Exploratory data analysis on 10,000+ Google Play Store apps across 33 categories.
 
